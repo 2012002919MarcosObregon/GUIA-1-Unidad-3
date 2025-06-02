@@ -1,0 +1,10 @@
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1-ConexionSql\Guia1-ConexionSql\bin\Debug\Guia1-ConexionSql.exe.config
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1-ConexionSql\Guia1-ConexionSql\bin\Debug\Guia1-ConexionSql.exe
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1-ConexionSql\Guia1-ConexionSql\bin\Debug\Guia1-ConexionSql.pdb
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1-ConexionSql\Guia1-ConexionSql\obj\Debug\Guia1-ConexionSql.csproj.AssemblyReference.cache
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1-ConexionSql\Guia1-ConexionSql\obj\Debug\Guia1_ConexionSql.Form1.resources
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1-ConexionSql\Guia1-ConexionSql\obj\Debug\Guia1_ConexionSql.Properties.Resources.resources
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1-ConexionSql\Guia1-ConexionSql\obj\Debug\Guia1-ConexionSql.csproj.GenerateResource.cache
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1-ConexionSql\Guia1-ConexionSql\obj\Debug\Guia1-ConexionSql.csproj.CoreCompileInputs.cache
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1-ConexionSql\Guia1-ConexionSql\obj\Debug\Guia1-ConexionSql.exe
+C:\Users\LABORATORIO\Desktop\P1 Marcos Obregon\Marcos Obregon V Bach 21 B\Guia1-ConexionSql\Guia1-ConexionSql\obj\Debug\Guia1-ConexionSql.pdb
